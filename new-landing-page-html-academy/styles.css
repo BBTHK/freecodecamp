@@ -18,7 +18,7 @@
 
 .light-theme .theme-button {
     color: #6653d9;
-    border: 1px solid #6b54ea;
+    border: 1px solid #6653d9;
 }
 
 .light-theme .theme-button::before {
@@ -28,7 +28,7 @@
 .light-theme .theme-button:focus,
 .light-theme .theme-button:hover {
     color: #ffffff;
-    background-color: #624dda;
+    background-color: #6653d9;
 }
 
 .light-theme .theme-button:focus::before,
